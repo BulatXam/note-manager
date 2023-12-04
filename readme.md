@@ -6,10 +6,9 @@
 
 - Клонируем репу
 
-    - ``` git clone https://github.com/wide-devs/WideGameBot ```
+    - ``` git clone https://github.com/BulatXam/note-manager ```
 - Устанваливаем зависимости
     -  ``` pip install -r requirements.txt ```
-    
 - Запускаем
     - ```python main.py```
 
